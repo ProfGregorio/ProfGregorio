@@ -1,5 +1,17 @@
-## Hi there 👋
-Olá, sou o Professor Gregorio
+# Olá, seja bem-vindo ao meu Perfil 👋
+
+Meu nome é Gregorio, sou professor de educação tecnológica
+Dou aula de:
+- Python
+- HTML
+- CSS
+- JS
+- Django
+
+## Projetos
+1. Lista de Exercícios
+2. Projeto Multi-disciplinares 2DS
+
 <!--
 **ProfGregorio/ProfGregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
